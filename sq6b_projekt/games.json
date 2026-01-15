@@ -1,0 +1,5 @@
+{"_id":{"$oid":"6348853dca1881dd7b39c0df"},"id":2,"name":"Mortal Kombat","type":"Beat-em Up","description":"Lorem ipsum","publisher":"Midway","releaseDate":{"$date":"2022-10-13T22:00:00Z"}}
+{"_id":{"$oid":"6348853dca1881dd7b39c0e0"},"id":3,"name":"Counter-Strike","type":"Ego-Shooter","description":"Lorem ipsum","publisher":"Valve","releaseDate":{"$date":"2022-10-13T22:00:00Z"}}
+{"_id":{"$oid":"6348853dca1881dd7b39c0e1"},"id":4,"name":"Civilization","type":"strategy","description":"Lorem ipsum","publisher":"2k","releaseDate":{"$date":"2022-10-13T22:00:00Z"}}
+{"_id":{"$oid":"6348853dca1881dd7b39c0e2"},"id":5,"name":"Overwatch","type":"Ego-Shooter","description":"Lorem ipsum","publisher":"Blizzard","releaseDate":{"$date":"2022-10-13T22:00:00Z"}}
+{"_id":{"$oid":"6348853dca1881dd7b39c0e3"},"id":1,"name":"Frostpunk","type":"strategy","description":"Lorem ipsum","publisher":"Steampunk","releaseDate":{"$date":"2022-10-13T22:00:00Z"}}
